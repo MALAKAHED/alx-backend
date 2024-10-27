@@ -1,3 +1,4 @@
-# Project Title
+# ALX Backend Repository
 
-A brief description of what this project does and who it's for.
+This repository contains projects and exercises for studying backend development as part of the ALX program.
+
